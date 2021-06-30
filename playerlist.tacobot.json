@@ -1,0 +1,151 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"pazer"
+		],
+		"description": "Remove the Toxisity from MVM",
+		"title": "Tacobot MVM Blacklist",
+		"update_url": ""
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:72386826]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:273458640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:166242235]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:128509906]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:372688659]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:256826968]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:87870645]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:163629659]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:156486668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:156103994]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:354417837]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:139396334]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:183045003]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:114097028]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:185642878]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:491090023]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:481339010]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:209814085]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:96345439]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:175164351]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:157898915]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:135191226]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:55222317]"
+		},
+	]
+}
